@@ -1,0 +1,15 @@
+NAMING CONVENTIONS:
+
+terminals:
+	"terminal$" where $ is the terminal's number
+	example: "terminal1"
+
+first object affected by terminal:
+	terminal name with "_action" appended to the end
+	example: terminal1
+	"terminal1_action"
+
+	message listener: this object should listen for a message 
+	with subject of "start_action". This will trigger whatever 
+	action is needed as well as send subsequent messages to any 
+	other objects that should be affected.
