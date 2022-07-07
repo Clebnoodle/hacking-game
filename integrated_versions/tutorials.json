@@ -1,0 +1,8 @@
+{"terminal1": {"question": "___ front_door", "answer": "if"}, 
+"terminal2": {"question": "___ opened_Office_Door", "answer": "print"}, 
+"terminal3": {"question": "for comm __ commList", "answer": "in"}, 
+"terminal4": {"question": "__ exitDoor != 'exit':\n return You are still in the Warehouse.", "answer": "while"}, 
+"terminal5": {"question": "eight_squared = 8 __ 2", "answer": " ** "}, 
+"terminal6": {"question": "10 modulus 3 = 10 __ 3", "answer": " % "}, 
+"terminal7": {"question": "import math \n sqrt_of_49 = math.__(49)", "answer": "sqrt"}, 
+"terminal8": {"question": "fifteen_floordiv_nine = 15 __ 9", "answer": "//"}}
