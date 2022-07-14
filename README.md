@@ -25,7 +25,6 @@ This is a hacking and stealth game set in Russia. The goal is to hack your way i
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Blender Game Engine Download](https://www.blender.org/download/releases/2-79/)
 * [Python BGE API](https://docs.blender.org/api/2.79/bge.logic.html)
 * [Blender Artists Forum](https://blenderartists.org/)
