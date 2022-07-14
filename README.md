@@ -1,9 +1,5 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.}
-
-{Provide a description of your team project.  Describe how to use the software.}
-
 This is a hacking and stealth game set in Russia. The goal is to hack your way in to disarm Russia's nuclear weapons. To accomplish this, you must hack into terminals you find along the way. Hacking these terminals will give you access to new places. Make sure to stay out of sight as you do this, as getting caught will bring your mission to its end.
 
 # How to Play the Game
